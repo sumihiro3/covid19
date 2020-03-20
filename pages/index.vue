@@ -157,7 +157,7 @@ export default {
       sumInfoOfPatients,
       headerItem: {
         icon: 'mdi-chart-timeline-variant',
-        title: '大阪府の最新感染動向',
+        title: '大阪府の最新感染動向（#108 Test）',
         date: Data.lastUpdate
       },
       newsItems: News.newsItems
